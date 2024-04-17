@@ -1,0 +1,5 @@
+langchain==0.1.16
+streamlit==1.29.0
+streamlit_nightly==1.32.3.dev20240316
+torch==2.2.2+cu118
+transformers==4.31.0
